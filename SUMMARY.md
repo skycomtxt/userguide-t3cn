@@ -16,7 +16,7 @@
 
 * [放电测试](gong-neng-jie-shao/splicing-test.md)
 
-## 异常处置
+## 设备调试 <a id="troubleshooting"></a>
 
 ---
 
