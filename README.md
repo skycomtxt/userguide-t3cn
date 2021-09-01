@@ -5,11 +5,11 @@
 1. [中文](./)
 2. [English](https://t3-en.skycomtech.cn)
 
-### 快速开始
+### [快速开始](kuai-su-kai-shi/battery-charge.md)
 
-1. 电池充电
-2. 一键检测
-3. 开始熔接
+1. [电池充电](kuai-su-kai-shi/battery-charge.md)
+2. [一键检测](kuai-su-kai-shi/quick-check.md)
+3. [开始熔接](kuai-su-kai-shi/fiber-splicing.md)
 
 ### [警告与注意事项](warning/warning.md)
 
