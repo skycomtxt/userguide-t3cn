@@ -6,9 +6,7 @@
 
 * [电池充电](kuai-su-kai-shi/battery-charge.md)
 * [一键检测](kuai-su-kai-shi/quick-check.md)
-* [光纤切割](kuai-su-kai-shi/fiber-cleaving.md)
-* [光纤熔接](kuai-su-kai-shi/fiber-splicing.md)
-* [光纤热缩](kuai-su-kai-shi/pyrocondensation.md)
+* [开始熔接](kuai-su-kai-shi/fiber-splicing.md)
 
 ## 注意事项
 
