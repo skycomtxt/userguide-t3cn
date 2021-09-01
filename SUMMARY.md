@@ -8,9 +8,9 @@
 * [一键检测](kuai-su-kai-shi/quick-check.md)
 * [开始熔接](kuai-su-kai-shi/fiber-splicing.md)
 
-## 注意事项
+## 警告与注意事项 <a id="warning"></a>
 
-* [电池保养](zhu-yi-shi-xiang/battery-maintenance.md)
+* [警告与注意事项](warning/warning.md)
 
 ## 功能介绍
 
