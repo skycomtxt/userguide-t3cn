@@ -23,6 +23,6 @@
 
 ### 设备调试
 
-1. \*\*\*\*[**光纤位置校正**](fiber-displacement-adjust.md)\*\*\*\*
+1. \*\*\*\*[**光纤位置校正**](troubleshooting/fiber-displacement-adjust.md)\*\*\*\*
 2. 熔接强度校正
 

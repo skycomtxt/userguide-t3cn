@@ -18,7 +18,5 @@
 
 ## 设备调试 <a id="troubleshooting"></a>
 
----
-
-* [光纤位置校正](fiber-displacement-adjust.md)
+* [光纤位置校正](troubleshooting/fiber-displacement-adjust.md)
 
