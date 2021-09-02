@@ -1,10 +1,5 @@
 # 开始
 
-### 语言
-
-1. [中文](./)
-2. [English](https://t3-en.skycomtech.cn)
-
 ### [快速开始](quick-start/battery-charge.md)
 
 1. [电池充电](quick-start/battery-charge.md)

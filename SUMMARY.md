@@ -20,3 +20,7 @@
 
 * [光纤位置校正](troubleshooting/fiber-displacement-adjust.md)
 
+## 语言 <a id="language"></a>
+
+* [English](https://t3-cn.skycomtech.cn)
+
