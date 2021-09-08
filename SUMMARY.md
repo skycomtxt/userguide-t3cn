@@ -14,6 +14,7 @@
 
 ## 功能介绍 <a id="function-introduction"></a>
 
+* [主菜单](function-introduction/main-menu.md)
 * [常用功能](function-introduction/common-function.md)
 * [参数设置](function-introduction/parameter-setting.md)
 * [系统调试](function-introduction/system-debugging.md)
