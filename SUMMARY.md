@@ -14,7 +14,12 @@
 
 ## 功能介绍 <a id="function-introduction"></a>
 
-* [放电测试](function-introduction/splicing-test.md)
+* [常用功能](function-introduction/common-function.md)
+* [参数设置](function-introduction/parameter-setting.md)
+* [系统调试](function-introduction/system-debugging.md)
+* [维护信息](function-introduction/device-information.md)
+* [其它设置](function-introduction/other-configurations.md)
+* [一键检测](function-introduction/yi-jian-jian-ce.md)
 
 ## 设备调试 <a id="troubleshooting"></a>
 
