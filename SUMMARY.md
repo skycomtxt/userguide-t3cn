@@ -22,5 +22,5 @@
 
 ## 语言 <a id="language"></a>
 
-* [English](https://t3-cn.skycomtech.cn)
+* [English](https://t3-en.skycomtech.cn)
 
