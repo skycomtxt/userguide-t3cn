@@ -26,6 +26,8 @@
 
 ![](../.gitbook/assets/5.battery-status-check-full-480.png)
 
+**7. 完成**
+
 
 
 [返回开始页](../)
