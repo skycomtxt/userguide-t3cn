@@ -5,7 +5,7 @@
 ## 快速开始 <a id="quick-start"></a>
 
 * [电池充电](quick-start/battery-charge.md)
-* [设备检测](quick-start/device-check.md)
+* [快速检测](quick-start/quick-check.md)
 * [开始熔接](quick-start/fiber-splicing.md)
 
 ## 警告与注意事项 <a id="warning"></a>
