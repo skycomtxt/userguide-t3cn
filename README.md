@@ -3,8 +3,7 @@
 ### [快速开始](quick-start/battery-charge.md)
 
 1. [电池充电](quick-start/battery-charge.md)
-2. [一键检测](quick-start/quick-check.md)
-3. [开始熔接](quick-start/fiber-splicing.md)
+2. [开始熔接](quick-start/fiber-splicing.md)
 
 ### [警告与注意事项](warning/warning.md)
 
