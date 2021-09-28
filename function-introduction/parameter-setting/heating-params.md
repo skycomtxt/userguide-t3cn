@@ -24,15 +24,17 @@
 
 **设置步骤\(选择新加热程序并修改参数\):**
 
-![](../../.gitbook/assets/params-set-cn-480-282.png)
-
 \(1\) 进入“参数设置"菜单。
+
+![](../../.gitbook/assets/params-set-cn-480-282.png)
 
 \(2\) 选择“加热模式"栏，按”菜单键“进入加热程序选择页面。
 
 ![](../../.gitbook/assets/choose-heating-program-cn-640-272.png)
 
 \(3\) 选择希望使用的加热程序栏，按“菜单键”确认选择，所选程序将变为红色。
+
+![](../../.gitbook/assets/choose-heating-program-2-cn-640-272.png)
 
 \(4\) 按“熔接键”进入此加热程序的参数设置页面。
 
