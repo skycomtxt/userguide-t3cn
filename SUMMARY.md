@@ -14,6 +14,7 @@
 ## 日常保养 <a id="daily-maintenance"></a>
 
 * [设备清洁](daily-maintenance/device-cleaning.md)
+* [放电测试](daily-maintenance/fang-dian-ce-shi.md)
 * [更换电极](daily-maintenance/change-electrodes.md)
 * [电池保养](daily-maintenance/battery-maintenance.md)
 
