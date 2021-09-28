@@ -10,8 +10,9 @@
 ### [日常保养](daily-maintenance/device-cleaning.md)
 
 1. [设备清洁](daily-maintenance/device-cleaning.md)
-2. [更换电极](daily-maintenance/change-electrodes.md)
-3. [电池保养](daily-maintenance/battery-maintenance.md)
+2. [放电测试](daily-maintenance/fang-dian-ce-shi.md)
+3. [更换电极](daily-maintenance/change-electrodes.md)
+4. [电池保养](daily-maintenance/battery-maintenance.md)
 
 ### [功能介绍](function-introduction/common-function.md)
 
