@@ -20,7 +20,8 @@
 ## 功能介绍 <a id="function-introduction"></a>
 
 * [常用功能](function-introduction/common-function.md)
-* [参数设置](function-introduction/parameter-setting.md)
+* [参数设置](function-introduction/parameter-setting/README.md)
+  * [加热参数设置](function-introduction/parameter-setting/heating-params.md)
 * [系统调试](function-introduction/system-debugging.md)
 * [维护信息](function-introduction/device-information.md)
 * [其它设置](function-introduction/other-configurations.md)
