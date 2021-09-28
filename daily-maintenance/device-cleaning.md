@@ -24,7 +24,9 @@
 
 ![](../.gitbook/assets/2.2.-clean-cleaver-bottom-rubber-pad-640-360.png)
 
-**3. 完成**
+**3. 清洁两侧物镜**
+
+**4. 完成**
 
 \*\*\*\*
 
