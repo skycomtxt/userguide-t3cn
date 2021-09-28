@@ -26,6 +26,6 @@
 
 ### [设备调试](troubleshooting/fiber-displacement-adjust.md)
 
-1. \*\*\*\*[**光纤位置校正**](troubleshooting/fiber-displacement-adjust.md)\*\*\*\*
+1. [光纤位置校正](troubleshooting/fiber-displacement-adjust.md)
 2. ---
 
