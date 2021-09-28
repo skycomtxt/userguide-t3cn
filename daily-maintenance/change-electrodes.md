@@ -6,9 +6,29 @@
 
 **1. 拆卸电极罩**
 
-**2. 替换电极**
+   1.1. 使用十字起\(PH1\)拆卸电极罩螺钉。
+
+![](../.gitbook/assets/remove-electrode-shell-screw-640-360.png)
+
+   ****1.2. 向上拔出电极罩。
+
+![](../.gitbook/assets/pullup-electrode-shell-640-360.png)
+
+**2. 装入新电极**
+
+![](../.gitbook/assets/put-in-a-new-electrode-640-360.png)
 
 **3. 安装电极罩**
+
+ ****  3.1. 安装电极压板\(宽面朝上\)。
+
+![](../.gitbook/assets/install-electrode-plate-640-360.png)
+
+   3.2. 压入电极罩。
+
+![](../.gitbook/assets/press-in-electrode-shell-640-360.png)
+
+**4. 重复步骤1~3，更换另一侧电极棒**
 
 **4. 放电测试**
 
