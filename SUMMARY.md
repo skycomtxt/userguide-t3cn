@@ -1,6 +1,7 @@
 # Table of contents
 
 * [开始](README.md)
+* [产品介绍](product-specifications.md)
 
 ## 快速开始 <a id="quick-start"></a>
 

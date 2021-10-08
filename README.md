@@ -1,5 +1,7 @@
 # 开始
 
+### [产品介绍](product-specifications.md)
+
 ### [快速开始](quick-start/battery-charge.md)
 
 1. [电池充电](quick-start/battery-charge.md)
