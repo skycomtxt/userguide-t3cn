@@ -20,7 +20,8 @@
 
 1. [常用功能](function-introduction/common-function.md)
 2. [参数设置](function-introduction/parameter-setting/)
-   1. [加热参数设置](function-introduction/parameter-setting/heating-params.md)
+   1. [熔接参数设置](function-introduction/parameter-setting/rong-jie-can-shu-she-zhi.md)
+   2. [加热参数设置](function-introduction/parameter-setting/heating-params.md)
 3. [系统调试](function-introduction/system-debugging.md)
 4. [维护信息](function-introduction/device-information.md)
 5. [其它设置](function-introduction/other-configurations.md)
@@ -29,6 +30,4 @@
 ### [设备调试](troubleshooting/fiber-displacement-adjust.md)
 
 1. [光纤位置校正](troubleshooting/fiber-displacement-adjust.md)
-
-
 
